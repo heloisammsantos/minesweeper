@@ -1,0 +1,73 @@
+//Use BASH to make this code
+
+/.bash_historyfile
+bash: /.bash_historyfile: No such file or directory
+
+$ cd minesweeper
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper
+$ cd src
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ cd minesweeper.js
+bash: cd: minesweeper.js: No such file or directory
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ touch minesweeper.js
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+This is what a board with a guess and a bomb on it would like:
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+ |  |
+ |  |
+ |  |
+This is what a board with a guess and a bomb on it would like:
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+ |  |
+ |  |
+ |  |
+This is what a board with a guess and a bomb on it would like:
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+ |  |
+ |  |
+ |  |
+This is what a board with a guess and a bomb on it would like:
+ |  |
+ 1|  |
+ | b |
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$ node minesweeper.js
+This is what an empty board look like:
+ |  |
+ |  |
+ |  |
+This is what a board with a guess and a bomb on it would like:
+ 1|  |
+ | b |
+ |  |
+
+IEAA@DESKTOP-54OT52Q MINGW64 ~/minesweeper/src
+$clear
